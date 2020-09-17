@@ -5,10 +5,10 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "25e83241-1d43-49a3-8097-210380f443d1"        
         }
     },
     "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/kinto",
+    "repository": "https://github.com/fifi16/kinto",
     "stack": "container"
 }
